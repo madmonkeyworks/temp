@@ -1,0 +1,66 @@
+{
+    "data" : {
+        "community": {
+            "heroTitle": "Learn to dance with enthusiast teachers from Bailemos Amsterdam",
+            "heroSubtitle": "Join our online courses and learn whenever and wherever it suits you or book a private lesson with one of our professional teachers.",
+            "linkText": "Want to know more about Bailemos Amsterdam? Check our website."
+        },
+        "courses": [
+            {
+                "title": "Bachata sensual for the beginners",
+                "description": "Bachata Sensual was made popular in Spain. Bachata Sensual is a mix between dance and theatre with strict follow and lead principles. The dance is an interpretation of the music with mostly circular movements and body waves.",
+                "introImageUrl": "https://com-skilltransfers-images.s3.eu-west-2.amazonaws.com/69b93280-6a17-403e-a573-f43c33f338ab?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVDOGA75UMQC3O4MS%2F20201208%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201208T103724Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMiJIMEYCIQCKfH09rV536jPLK6QTrvcxBpJDozl%2B1TfcN3lskvPXwQIhAKDOmBy5gZ3iPbAX2cSFe1EBZXpGcWidjn%2FPupJ20DI2KtwBCEQQAhoMMzUwOTkyMDA3MDE2Igx2uijRkEkovrpoHjcquQFYxZlBeEiy1A04s0degylpFCSxVkfFFY8qWgxYaoONJsb5qYg1H%2BMwpM6PQFzJRH3khYx3bxDdU9jGi9G5etok0Su3DFbePoqoEjwgQ03F3yxcn7yXrShUok6JbdezxDxq6MbZo1cfyHRvV3Bpxi4slRA%2Bw5sWdFAJDhl2LrHD%2Bboiawp%2BHHjbBD3Wj8sJcnuidSsiEt2Et9ym9fgYMG14WLbkstrfTcY9qsJmGZ8Vb2DkgvVELFgaHjDfrr3%2BBTrfATrxDUydp46Dj1MLCdvumfrcSZHdKtzqcJx3TJWYbOmbF028BpEIZilbip5rVRI35N1aBPX%2F%2B%2BLX3BPsgij0i8gDyXF%2F4fP8yHYjRETi6HftcM4hBAnB2UJTP%2BkNwdkdeF6v6RSkkUPOe4QjWfmlhQXMTw4xsqcq3qYp4pnDyZArBWz00FJVAGg%2FjYl3PhwkbF6SUV31g3hVMpTKEXZQYIPFD6Xo1zS2jFWZYj3lJ3%2BO1gF7uSo4jdc27Jmgy3irEAYD5CsGTrgmW%2BZEhlBVXZyregTJMot4iB%2Fdby5Xlrc%3D&X-Amz-Signature=5dd6247f6e421db9880508ac6e6705540278d491a0d970457e8d542080fe8c14&X-Amz-SignedHeaders=host"
+            },
+            {
+                "title": "Salsa LA",
+                "description": "In many styles of salsa dancing, as a dancer shifts their weight by stepping, the upper body remains level and nearly unaffected by the weight changes. Weight shifts cause the hips to move.",
+                "introImageUrl": "https://com-skilltransfers-images.s3.eu-west-2.amazonaws.com/8c6caa59-367b-4f5b-8548-313a9c2a7c99?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVDOGA75UMQC3O4MS%2F20201208%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201208T103724Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMiJIMEYCIQCKfH09rV536jPLK6QTrvcxBpJDozl%2B1TfcN3lskvPXwQIhAKDOmBy5gZ3iPbAX2cSFe1EBZXpGcWidjn%2FPupJ20DI2KtwBCEQQAhoMMzUwOTkyMDA3MDE2Igx2uijRkEkovrpoHjcquQFYxZlBeEiy1A04s0degylpFCSxVkfFFY8qWgxYaoONJsb5qYg1H%2BMwpM6PQFzJRH3khYx3bxDdU9jGi9G5etok0Su3DFbePoqoEjwgQ03F3yxcn7yXrShUok6JbdezxDxq6MbZo1cfyHRvV3Bpxi4slRA%2Bw5sWdFAJDhl2LrHD%2Bboiawp%2BHHjbBD3Wj8sJcnuidSsiEt2Et9ym9fgYMG14WLbkstrfTcY9qsJmGZ8Vb2DkgvVELFgaHjDfrr3%2BBTrfATrxDUydp46Dj1MLCdvumfrcSZHdKtzqcJx3TJWYbOmbF028BpEIZilbip5rVRI35N1aBPX%2F%2B%2BLX3BPsgij0i8gDyXF%2F4fP8yHYjRETi6HftcM4hBAnB2UJTP%2BkNwdkdeF6v6RSkkUPOe4QjWfmlhQXMTw4xsqcq3qYp4pnDyZArBWz00FJVAGg%2FjYl3PhwkbF6SUV31g3hVMpTKEXZQYIPFD6Xo1zS2jFWZYj3lJ3%2BO1gF7uSo4jdc27Jmgy3irEAYD5CsGTrgmW%2BZEhlBVXZyregTJMot4iB%2Fdby5Xlrc%3D&X-Amz-Signature=603b1a9b7d02f2673b70ea19b97fa61f6e857125ccdfd27c590827d804cc8ac9&X-Amz-SignedHeaders=host"
+            }
+        ]
+    },
+    "translations": {
+        "common": {
+            "afternoon": "Namiddag",
+            "billing": "Facturering",
+            "booking": "Boeking",
+            "confirm": "Bevestig",
+            "confirmPassword": "Bevestig Wachtwoord",
+            "actions": "Acties",
+            "order": "Ordenen",
+            "all": "Alle",
+            "users": "Gebruikers",
+            "user": "Gebruiker",
+            "courses": "Cursussen",
+            "course": "Cursus",
+            "evening": "Avond",
+            "general": "Algemeen",
+            "getStarted": "Start Nu",
+            "goTo": "Naar",
+            "login": "Inloggen",
+            "logout": "Uitloggen",
+            "clickHere": "Klik hier",
+            "morning": "Ochtend",
+            "password": "Wachtwoord",
+            "catalogue": "Catalogus",
+            "proceed": "Doorgaan",
+            "price": "Prijs",
+            "send": "Sturen",
+            "settings": "Instellingen",
+            "signIn": "Inloggen",
+            "signUp": "Aanmelden",
+            "signUpTo": "Aanmelden voor",
+            "create": "Creëer",
+            "skills": "Skills",
+            "submit": "Verzenden",
+            "verify": "Verifiëren",
+            "sun": "Zo",
+            "mon": "Ma",
+            "tue": "Di",
+            "wed": "Wo",
+            "thu": "Do",
+            "fri": "Vr",
+            "sat": "Za",
+            "save": "Opslaan"
+          }
+    }
+}
